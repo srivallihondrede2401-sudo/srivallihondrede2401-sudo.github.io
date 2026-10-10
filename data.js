@@ -15,13 +15,13 @@ window.PORTFOLIO = {
   location: "Vizag, India",
   timezone: "Asia/Kolkata",
   email: "srivallihondrede2401@gmail.com",
-  resume: "", // put your CV at assets/resume.pdf and set this to "assets/resume.pdf" — empty hides the button
+  resume: "assets/Hondrede_Srivalli_Resume.pdf", // empty string hides the Download CV button
   available: true,
   availabilityText: "Available for full-time & freelance",
 
   socials: [
     { label: "GitHub", url: "https://github.com/srivallihondrede2401-sudo", icon: "github" },
-    // { label: "LinkedIn", url: "https://linkedin.com/in/<your-id>", icon: "linkedin" },
+    { label: "LinkedIn", url: "https://www.linkedin.com/in/hondrede-srivalli", icon: "linkedin" },
     // { label: "X / Twitter", url: "https://x.com/<your-id>", icon: "x" },
     // { label: "WhatsApp", url: "https://wa.me/91XXXXXXXXXX", icon: "whatsapp" },
   ],
